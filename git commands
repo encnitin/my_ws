@@ -1,0 +1,6 @@
+git add -A ./rtl
+git status
+//git config --global user mail
+//git config --global user name
+git commit -m "comment"
+git pull git push
